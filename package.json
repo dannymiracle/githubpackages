@@ -17,3 +17,6 @@
   },
   "homepage": "https://github.com/dannymiracle/githubpackages#readme"
 }
+"publishConfig": {
+   "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+ }
